@@ -1,0 +1,7 @@
+PhotoOS Update Signing Public Key
+algorithm=Ed25519
+created_utc=2026-09-19T10:16:49Z
+public_key_file=photoos-update-ed25519.pub
+public_key_spki_sha256=1825e4096174f21e0413f2bf4acc6328f944a31040a0bbd5ee6c5bf415013d71
+private_key_location=C:\Users\MSI\PhotoOS-Release-Builder\keys\private\photoos-update-ed25519.pem
+private_key_published=NO
